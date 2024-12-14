@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">Web & Java developer</h3>
 
-- 🔭 I’m currently working on [Gestion_Réparation](https://github.com/NathanVNT/Gestion_Reparation)
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://nathanvernet.fr](https://nathanvernet.fr)
