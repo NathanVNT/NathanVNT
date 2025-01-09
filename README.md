@@ -8,7 +8,7 @@
 - 📫 How to reach me **contact@nathanvernet.fr**
 
 <h3 align="left">Connect with me:</h3>
-[https://www.linkedin.com/in/nathanvernet/](LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/nathanvernet)
 <p align="left">
 </p>
 
